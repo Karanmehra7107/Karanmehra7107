@@ -2,7 +2,7 @@
 <img align='right' src="https://i.imgur.com/OTKgDSt.gif" width="215">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Karanmehra7107" alt="karanmehra" /> </p>
 
-- 💻 Serving as Cyber Security Engineer **@RAH_INFOTECH**
+- 💻 Serving as Cyber Security Engineer [RAH_INFOTECH](https://rahinfotech.com/index.html)
 - 🧑‍💻 Master's in Computer Applications
 - 💻 AI | ML Researcher **@Lovely_Professional_University**
 - 👯 Ex Research Analyst [AUTHENTIX](https://www.authentix.com/) 
