@@ -2,10 +2,11 @@
 <img align='right' src="https://i.imgur.com/OTKgDSt.gif" width="215">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Karanmehra7107" alt="karanmehra" /> </p>
 
+- 💻 Serving as Cyber Security Engineer **@RAH_INFOTECH**
 - 🧑‍💻 Master's in Computer Applications
-- 💻 Researcher **@Lovely_Professional_University**
-- 👯  Ex Research Analyst [Strategic IP Information](https://sipi-ip.com/) 
-- 🔭 Ex SData scientist [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/), [KPMG](https://home.kpmg/xx/en/home.html), [Accenture Developer](https://home.kpmg/xx/en/home.html), [Accenture Consultant](https://home.kpmg/xx/en/home.html), [Suven Consultants & Technology Pvt. Ltd.](https://home.kpmg/xx/en/home.html), [PWC ](https://home.kpmg/xx/en/home.html)
+- 💻 AI | ML Researcher **@Lovely_Professional_University**
+- 👯 Ex Research Analyst [AUTHENTIX](https://www.authentix.com/) 
+- 🔭 Ex Data Scientist [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/), [KPMG](https://home.kpmg/xx/en/home.html), [Accenture Developer](https://home.kpmg/xx/en/home.html), [Accenture Consultant](https://home.kpmg/xx/en/home.html), [Suven Consultants & Technology Pvt. Ltd.](https://home.kpmg/xx/en/home.html), [PWC ](https://home.kpmg/xx/en/home.html)
 - 👨‍💻 All of my projects are available at [www.karanmehra.ml](https://karanmehra7107.github.io/My-Portfolio/index.html)
 - 📫 You can reach me at **Karanmehra7107@gmail.com** | **Karankmehra8146287107@gmail.com** | **karan.11815793@lpu.in**  | **karan.12105221@lpu.in**
                                 - 📫 [Karanmehra.ml](https://karanmehra.ml/)
